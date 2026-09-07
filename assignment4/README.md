@@ -59,7 +59,7 @@ Project Folder
    delete confirmation).
 
 ## Output Screenshots
-![Output of terminal](screenshot.png)
+![Output of terminal](Screenshot.png)
 ## Error Handling
 
 Every `fs` operation checks for an `err` object in its callback. If an
