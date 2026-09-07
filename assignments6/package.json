@@ -1,0 +1,14 @@
+{
+  "name": "express-middleware-assignments",
+  "version": "1.0.0",
+  "description": "Assignment 1-3: Express.js middleware exercises",
+  "main": "assignment2_request_logger.js",
+  "scripts": {
+    "start1": "node assignment1_router_middleware.js",
+    "start2": "node assignment2_request_logger.js",
+    "start3": "node assignment3_response_time.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
