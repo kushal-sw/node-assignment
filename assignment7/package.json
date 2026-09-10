@@ -1,0 +1,11 @@
+{
+  "name": "assignment7",
+  "version": "1.0.0",
+  "description": "Three small Express.js apps covering route parameters, query parameters, and both combined.",
+  "main": "assignment1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
